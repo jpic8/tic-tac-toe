@@ -1,5 +1,7 @@
 # tic-tac-toe
 
+GH Pages link -- https://jpic8.github.io/tic-tac-toe/
+
 https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript/lessons/tic-tac-toe
 
 This Tic Tac Toe assignment for The Odin Project was another difficult one. I wasn't even sure where to begin for the long time, and as usual I basically skipped right over CSS and went straight into Javascript. This was a mess because I should have set up the visual representation of my board before trying to mess around with the backend game logic.
